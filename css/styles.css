@@ -23,3 +23,11 @@
 .fundo2 {
   background-color: silver;
 }
+.fundo-branco {
+  background-color: #fff;
+}
+body {
+  background-image: url("../img/hotel14.jpg");
+  background-attachment: fixed;
+  background-size: 100%;
+}
